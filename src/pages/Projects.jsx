@@ -17,7 +17,7 @@ export default function Projects() {
             dateCompleted: "Completed: May 31st, 2026"
         },
         {
-            title: "Jav Code Cleanup",
+            title: "Java Code Cleanup",
             image: debugJava,
             description: "In this exercise our task was to take existing code, and use eclipses debugging functions to test the code for error. The programs purpose is to book flights for passengers. This program gives the option of business/economy, checking if they are a frequent flyer (no benefits in this version yet, will come in another update), and check to see if they are eligible for an employee discount. The program had many issues, mainly in the sellTIcket() function like not adding the discount correctly, repeating prompts multiple times in the same line, and not saving any inputted passenger information which allowed you to endlessly buy and never save seats. The method was tested and now runs as intended",
             dateCompleted: "Completed: June 5th, 2026"
