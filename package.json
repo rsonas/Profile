@@ -2,7 +2,7 @@
 
 {
   "engines": {
-  "node": "24x"
+  "node": "24.x"
 },
   "name": "profile",
   "private": true,
