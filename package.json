@@ -2,7 +2,7 @@
 
 {
   "engines": {
-  "node": "18.x"
+  "node": "24x"
 },
   "name": "profile",
   "private": true,
@@ -28,7 +28,7 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.6.0",
-    "vite": "^8.0.12"
+    "vite": "5"
   }
 }
 
