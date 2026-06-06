@@ -26,6 +26,7 @@
     flex-direction: column;
     background-color: #7A746D;
     border-radius:12px;
+    min-width: 700px;
 }
 /*padding/margins, formatting */
 .field form {
@@ -33,12 +34,12 @@
     display: flex;
     flex-direction: column;
     gap: 15px;
-    font-size: 20px;
+    font-size: 24px;
     color: #F4EEF3;
 }
 .formGroup label {
     margin-bottom: 4px;
-    font-size: 20px;
+    font-size: 24px;
     color: #F4EEF3;
 }
 .field input,
@@ -71,6 +72,7 @@ button {
     width: 200px;
     border-radius: 12px;
     padding:20px;
+    font-size: 24px;
 }
 button:hover {
     transform: translateY(-5px);
@@ -96,7 +98,7 @@ button:hover {
 }
 /*stretches rows to git info box */
 .infoRow {
-    font-size:20px;
+    font-size:24px;
     color:#2F303D;
     display: flex;
     flex-direction: column;

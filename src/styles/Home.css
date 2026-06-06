@@ -2,6 +2,8 @@
     HOME LAGOUT
 */
 
+
+/*firast container */
 .homeContainer {
     padding: 30px;
     display: flex;
@@ -16,17 +18,12 @@
 .homeContainer p {
     margin: 10px auto;
     line-height: 1.5;
+    font-size: 24px;
 }
-.content p {
-    margin-bottom: 10px;
-} 
-/*firast container */
 .content {
     width: 100%;
     max-width: 14000px;
     text-align: center;
-    line-height: 1.6;
-    font-size: 16px;
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -47,13 +44,15 @@
 
 /*button interaction and colouring */
 .redirects button {
-    padding: 20px;
+    width:100%;
+    padding: 30px;
     border: none;
     border-radius: 12px;
     cursor: pointer;
     transition: all 0.2s ease;
     background-color: #3C8BA5;
     color: #F4EEF3;
+    font-size: 20px;
 }
 .redirects button:hover {
     transform: translateY(-5px);

@@ -42,7 +42,7 @@ h1 {
 }
 /* first container text */
 .aboutContainer p:first-of-type {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 600;
     margin-top: 10px;
     color: #F4EEF3;
@@ -51,6 +51,7 @@ h1 {
 .text {
     flex: 1;
     text-align: left;
+    font-size: 20px;
 }
 
 /* resume frame */
